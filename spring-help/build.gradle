@@ -18,7 +18,7 @@ test {
     useJUnitPlatform()
 }
 
-task wrapper(type: Wrapper){
+tasks.register('wrapper', Wrapper) {
     gradleVersion = '7.2'
 }
 
