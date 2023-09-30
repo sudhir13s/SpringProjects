@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.springprojects'
+group = 'dev.ss.springprojects'
 version = '1.0-SNAPSHOT'
 
 repositories {
