@@ -1,4 +1,4 @@
-package dev.ss.springprojects.weather;
+package dev.ss.springprojects.weatherapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

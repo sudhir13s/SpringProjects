@@ -1,4 +1,4 @@
-package dev.ss.springprojects.weather;
+package dev.ss.springprojects.weatherapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
