@@ -1,4 +1,5 @@
 rootProject.name = 'SpringProjects'
 
 include 'spring-help'
-include 'weatherAPI'
+//include 'weatherAPI'
+include 'ToDoMini'
